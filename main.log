@@ -1,0 +1,554 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.14)  20 JUL 2023 16:32
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24>
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen139
+))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen140
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count193
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count194
+\leftroot@=\count195
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count196
+\DOTSCASE@=\count197
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count198
+\c@MaxMatrixCols=\count199
+\dotsspace@=\muskip16
+\c@parentequation=\count266
+\dspbrk@lvl=\count267
+\tag@help=\toks17
+\row@=\count268
+\column@=\count269
+\maxfields@=\count270
+\andhelp@=\toks18
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
+\@envbody=\toks19
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/listings/listings.sty
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+\lst@mode=\count271
+\lst@gtempboxa=\box52
+\lst@token=\toks22
+\lst@length=\count272
+\lst@currlwidth=\dimen148
+\lst@column=\count273
+\lst@pos=\count274
+\lst@lostspace=\dimen149
+\lst@width=\dimen150
+\lst@newlines=\count275
+\lst@lineno=\count276
+\lst@maxwidth=\dimen151
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count277
+\lst@skipnumbers=\count278
+\lst@framebox=\box53
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/qcircuit/qcircuit.sty
+Package: qcircuit 2018/08/14
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/xypic/xy.sty
+(/usr/local/texlive/2022/texmf-dist/tex/generic/xypic/xy.tex Bootstrap'ing:
+catcodes, docmode,
+(/usr/local/texlive/2022/texmf-dist/tex/generic/xypic/xyrecat.tex)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/xypic/xyidioms.tex)
+
+ Xy-pic version 3.8.9 <2013/10/06>
+ Copyright (c) 1991-2013 by Kristoffer H. Rose <krisrose@tug.org> and others
+ Xy-pic is free software: see the User's Guide for details.
+
+Loading kernel: messages; fonts; allocations: state,
+\X@c=\dimen152
+\Y@c=\dimen153
+\U@c=\dimen154
+\D@c=\dimen155
+\L@c=\dimen156
+\R@c=\dimen157
+\Edge@c=\toks23
+\X@p=\dimen158
+\Y@p=\dimen159
+\U@p=\dimen160
+\D@p=\dimen161
+\L@p=\dimen162
+\R@p=\dimen163
+\Edge@p=\toks24
+\X@origin=\dimen164
+\Y@origin=\dimen165
+\X@xbase=\dimen166
+\Y@xbase=\dimen167
+\X@ybase=\dimen168
+\Y@ybase=\dimen169
+\X@min=\dimen170
+\Y@min=\dimen171
+\X@max=\dimen172
+\Y@max=\dimen173
+\lastobjectbox@=\box54
+\zerodotbox@=\box55
+\almostz@=\dimen174
+ direction,
+\d@X=\dimen175
+\d@Y=\dimen176
+\K@=\count279
+\KK@=\count280
+\Direction=\count281
+\K@dXdY=\dimen177
+\K@dYdX=\dimen178
+\xyread@=\read2
+\xywrite@=\write3
+\csp@=\count282
+\quotPTK@=\dimen179
+
+utility macros; pictures: \xy, positions,
+\swaptoks@@=\toks25
+\connectobjectbox@@=\box56
+ objects,
+\styletoks@=\toks26
+ decorations;
+kernel objects: directionals, circles, text; options; algorithms: directions,
+edges, connections;  Xy-pic loaded)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+Package: xy 2013/10/06 Xy-pic version 3.8.9
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/xypic/xypdf.tex
+ Xy-pic option: PDF driver v.1.7 loaded))
+(/usr/local/texlive/2022/texmf-dist/tex/generic/xypic/xymatrix.tex
+ Xy-pic option: Matrix feature v.3.14
+\Row=\count283
+\Col=\count284
+\queue@=\toks27
+\queue@@=\toks28
+\qcount@=\count285
+\qcount@@=\count286
+\matrixsize@=\count287
+ loaded)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/xypic/xyframe.tex
+ Xy-pic option: Frame and Bracket extension v.3.14 loaded)
+Xy-pic pdf driver: `frame' extension support
+(/usr/local/texlive/2022/texmf-dist/tex/generic/xypic/xypdf-fr.tex
+(/usr/local/texlive/2022/texmf-dist/tex/generic/xypic/xycurve.tex
+ Xy-pic option: Curve and Spline extension v.3.12 curve,
+\crv@cnt@=\count288
+\crvpts@=\toks29
+\splinebox@=\box57
+\splineval@=\dimen180
+\splinedepth@=\dimen181
+\splinetol@=\dimen182
+\splinelength@=\dimen183
+ circles,
+\L@=\dimen184
+ loaded)
+Xy-pic pdf driver: `curve' extension support
+(/usr/local/texlive/2022/texmf-dist/tex/generic/xypic/xypdf-cu.tex loaded)
+loaded) (/usr/local/texlive/2022/texmf-dist/tex/generic/xypic/xyarrow.tex
+ Xy-pic option: Arrow and Path feature v.3.9 path, \ar, loaded)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/xypic/xyarc.tex
+ Xy-pic option: Circle, Ellipse, Arc feature v.3.8 circles, ellipses,
+elliptical arcs, loaded))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen185
+\Gin@req@width=\dimen186
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count289
+\l__pdf_internal_box=\box58
+)
+(./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+\c@lstlisting=\count290
+LaTeX Font Info:    Trying to load font information for U+msa on input line 30.
+
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 30.
+
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Package xypdf Info: Line width: 0.39998pt on input line 30.
+
+(/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count291
+\scratchdimen=\dimen187
+\scratchbox=\box59
+\nofMPsegments=\count292
+\nofMParguments=\count293
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count294
+\MPscratchDim=\dimen188
+\MPnumerator=\count295
+\makeMPintoPDFobject=\count296
+\everyMPtoPDFconversion=\toks31
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+(./main.toc [1
+
+{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+ [2] [3] [4] [5] <xymatrix 10x6 1744> <xymatrix 6x4 398>
+(/usr/local/texlive/2022/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+) [6]
+(./code_snippets/endian.py
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 7
+.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 7.
+
+Overfull \hbox (3.00354pt too wide) in paragraph at lines 10--12
+[][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (9.0036pt too wide) in paragraph at lines 13--15
+[][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (75.00427pt too wide) in paragraph at lines 25--26
+[][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (15.00366pt too wide) in paragraph at lines 28--29
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+) <xymatrix 10x6 1744> [7] <xymatrix 8x6 1422>
+(./code_snippets/uniform_superposition.py
+Overfull \hbox (3.00354pt too wide) in paragraph at lines 11--13
+[][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (9.0036pt too wide) in paragraph at lines 14--16
+[][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (75.00427pt too wide) in paragraph at lines 19--20
+[][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (51.00403pt too wide) in paragraph at lines 28--31
+[][][][][][][][][][][][][][][][][] 
+ []
+
+[8])
+<code_snippets/uniform_superposition_output.png, id=47, 457.4691pt x 344.0052pt
+>
+File: code_snippets/uniform_superposition_output.png Graphic file (type png)
+<use code_snippets/uniform_superposition_output.png>
+Package pdftex.def Info: code_snippets/uniform_superposition_output.png  used o
+n input line 361.
+(pdftex.def)             Requested size: 228.734pt x 172.00217pt.
+ (./code_snippets/entanglement.py [9 <./code_snippets/uniform_superposition_out
+put.png>]
+Overfull \hbox (3.00354pt too wide) in paragraph at lines 12--14
+[][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (9.0036pt too wide) in paragraph at lines 15--17
+[][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (75.00427pt too wide) in paragraph at lines 22--23
+[][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+)
+<code_snippets/entanglement_output.png, id=53, 466.74374pt x 331.2375pt>
+File: code_snippets/entanglement_output.png Graphic file (type png)
+<use code_snippets/entanglement_output.png>
+Package pdftex.def Info: code_snippets/entanglement_output.png  used on input l
+ine 394.
+(pdftex.def)             Requested size: 233.37129pt x 165.61833pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[10]
+
+Package amsfonts Warning: Obsolete command \bold; \mathbf should be used instea
+d on input line 420.
+
+[11 <./code_snippets/entanglement_output.png>] [12]
+Overfull \hbox (14.05609pt too wide) in paragraph at lines 484--485
+[]\OT1/cmr/m/n/10 The specifics of or-a-cle im-ple-men-ta-tions for ac-cess mod
+-els are problem-dependent
+ []
+
+[13] [14] (./code_snippets/qft.py
+Overfull \hbox (81.00433pt too wide) in paragraph at lines 21--23
+[][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (39.0039pt too wide) in paragraph at lines 34--35
+[][][][][][][][][][][][][][][][][][][] 
+ []
+
+[15]
+Overfull \hbox (75.00427pt too wide) in paragraph at lines 41--43
+[][][][][][][][][][][][][][][][][][][][] 
+ []
+
+)
+<code_snippets/qft1.png, id=75, 475.5366pt x 360.6273pt>
+File: code_snippets/qft1.png Graphic file (type png)
+<use code_snippets/qft1.png>
+Package pdftex.def Info: code_snippets/qft1.png  used on input line 587.
+(pdftex.def)             Requested size: 142.66208pt x 108.18903pt.
+<code_snippets/qft2.png, id=76, 462.528pt x 360.6273pt>
+File: code_snippets/qft2.png Graphic file (type png)
+<use code_snippets/qft2.png>
+Package pdftex.def Info: code_snippets/qft2.png  used on input line 588.
+(pdftex.def)             Requested size: 138.75946pt x 108.18903pt.
+
+Overfull \hbox (0.29059pt too wide) in paragraph at lines 612--613
+\OT1/cmr/m/n/10 uni-taries are ap-plied, even if the in-put $\OMS/cmsy/m/n/10 j
+\OML/cmm/m/it/10  \OMS/cmsy/m/n/10 i$ \OT1/cmr/m/n/10 is not an eigen-state of 
+$\OML/cmm/m/it/10 U \OT1/cmr/m/n/10 = [][] \OML/cmm/m/it/10 e[]\OMS/cmsy/m/n/10
+ j\OML/cmm/m/it/10 ^^U[]\OMS/cmsy/m/n/10 i$\OT1/cmr/m/n/10 ,
+ []
+
+[16 <./code_snippets/qft1.png> <./code_snippets/qft2.png>] <xymatrix 14x8
+3918> [17] <xymatrix 6x3 292> [18]
+Overfull \hbox (23.53127pt too wide) detected at line 741
+[]\OML/cmm/m/it/10 e[] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 e[] \OT1/cmr/m/n/10 =
+ (\OML/cmm/m/it/10 e[]\OT1/cmr/m/n/10 )[] \OMS/cmsy/m/n/10 ^^Y \OT1/cmr/m/n/10 
+([] \OML/cmm/m/it/10 e[] [] e[]\OT1/cmr/m/n/10 )[] + \OML/cmm/m/it/10 O\OT1/cmr
+/m/n/10 (\OML/cmm/m/it/10 k[]t[]=r[]\OT1/cmr/m/n/10 )
+ []
+
+(./code_snippets/trotter.py [19]
+Overfull \hbox (57.00409pt too wide) in paragraph at lines 13--15
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (45.00397pt too wide) in paragraph at lines 18--19
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (99.00452pt too wide) in paragraph at lines 32--33
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (3.00354pt too wide) in paragraph at lines 33--34
+[][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (87.0044pt too wide) in paragraph at lines 38--40
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (45.00397pt too wide) in paragraph at lines 45--46
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[20]
+Overfull \hbox (99.00452pt too wide) in paragraph at lines 60--61
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (3.00354pt too wide) in paragraph at lines 61--62
+[][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (87.0044pt too wide) in paragraph at lines 66--68
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (87.0044pt too wide) in paragraph at lines 72--73
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+)
+Overfull \hbox (81.00433pt too wide) in paragraph at lines 73--768
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+<code_snippets/trotter_output.png, id=97, 418.4433pt x 315.8199pt>
+File: code_snippets/trotter_output.png Graphic file (type png)
+<use code_snippets/trotter_output.png>
+Package pdftex.def Info: code_snippets/trotter_output.png  used on input line 7
+73.
+(pdftex.def)             Requested size: 313.8317pt x 236.86433pt.
+[21 <./code_snippets/trotter_output.png>] [22] [23] [24] (./main.aux) ) 
+Here is how much of TeX's memory you used:
+ 6791 strings out of 478268
+ 91620 string characters out of 5846347
+ 675088 words of memory out of 5000000
+ 24902 multiletter control sequences out of 15000+600000
+ 479672 words of font info for 69 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 70i,26n,76p,1420b,1672s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/usr/lo
+cal/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/loc
+al/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/loca
+l/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local
+/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/local/t
+exlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/te
+xlive/2022/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex7.pfb></usr/local
+/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/
+texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/te
+xlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texl
+ive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texliv
+e/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/
+2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/20
+22/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2022/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2022/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2022/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2022/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2022/texmf-dis
+t/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2022/texmf
+-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2022/texmf-d
+ist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2022/texmf-dis
+t/fonts/type1/public/xypic/xyatip10.pfb></usr/local/texlive/2022/texmf-dist/fon
+ts/type1/public/xypic/xybtip10.pfb>
+Output written on main.pdf (24 pages, 418416 bytes).
+PDF statistics:
+ 204 PDF objects out of 1000 (max. 8388607)
+ 122 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+

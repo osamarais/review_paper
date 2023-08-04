@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 
+from matplotlib import pyplot as plt
 import qiskit
 
 # Create a register of 3 qubits
@@ -28,4 +29,5 @@ myCircuit.measure(myQRegister,myCRegister)
 myCircuit = myCircuit.reverse_bits()
 
 # Draw the circuit
-myCircuit.draw('latex')
+myCircuit.draw('mpl')
+plt.show()
